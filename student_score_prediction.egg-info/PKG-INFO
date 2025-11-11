@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: student-score-prediction
+Version: 0.0.1
+Author: Sai Varsha
+Author-email: saivarshadevoju@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: seaborn
